@@ -13,3 +13,5 @@ return Math.ceil(arrayItems.length/rowsPerPage)
 }
 }
 module.exports = totalPages
+
+// :D
